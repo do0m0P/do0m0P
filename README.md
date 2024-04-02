@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @do0m0P
-- 👀 I’m interested in ... Python
-- 🌱 I’m currently learning ... DSA
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ...
+- 👀 I’m interested in ... Python, Deep Learning, Image Processing and Computer Vision
 
 <!---
 do0m0P/do0m0P is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
